@@ -10,7 +10,7 @@ Ginger is a missing [service animal](https://www.duckduckgo.com/?q=service+anima
 
 [![Ginger.mall.jpg](./Ginger.mall.jpg)](https://github.com/serviceanimals/Ginger/raw/master/Ginger.mall.jpg)
 
-![Ginger.bus.jpg](./Ginger.bus.jpg)](https://github.com/serviceanimals/Ginger/raw/master/Ginger.bus.jpg)
+[![Ginger.bus.jpg](./Ginger.bus.jpg)](https://github.com/serviceanimals/Ginger/raw/master/Ginger.bus.jpg)
 
 <!--    * [Issues at this repository](https://github.com/serviceanimals/Ginger/issues) 
 	* [Pulls at this repository](https://github.com/serviceanimals/Ginger/pulls) 
